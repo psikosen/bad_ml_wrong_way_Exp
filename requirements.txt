@@ -1,0 +1,6 @@
+torch>=2.2
+numpy>=1.24
+tqdm>=4.66
+# optional
+faiss-cpu>=1.7.4; platform_system != "Windows"
+neo4j>=5.0
